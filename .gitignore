@@ -1,4 +1,5 @@
 .DS_Store
 *.gz
+.idea
 node_modules
 npm-debug.log
