@@ -28,7 +28,7 @@
 		"tooltipster"
 	],
 	"license": "MIT",
-	"main": "dist/js/tooltipster-follower.min.js",
+	"main": "dist/js/tooltipster-follower.js",
 	"name": "tooltipster-follower",
 	"repository": {
 		"type": "git",
@@ -37,5 +37,5 @@
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
-	"version": "0.1.6"
+	"version": "0.1.7"
 }
