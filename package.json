@@ -32,7 +32,7 @@
 	"name": "tooltipster-follower",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/louisameline/tooltipster-follower.git"
+		"url": "https://github.com/vasiliytsykin/tooltipster-follower.git"
 	},
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
